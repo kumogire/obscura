@@ -1,0 +1,2 @@
+# obscura
+Encryption API
